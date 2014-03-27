@@ -1,0 +1,20 @@
+{
+  "name": "grunt-umd-helper",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Thomas Hermann <novascreen@gmail.com>",
+  "license": "MIT",
+  "main": "tasks/umd-helper.js",
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "grunt": ">=0.3.12"
+  },
+  "peerDependencies": {
+    "grunt-umd": "~1.7.3"
+  },
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
+}

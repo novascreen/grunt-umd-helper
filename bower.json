@@ -1,0 +1,15 @@
+{
+  "name": "grunt-umd-helper",
+  "version": "0.1.0",
+  "authors": [
+    "Thomas Hermann <novascreen@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
